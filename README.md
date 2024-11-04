@@ -21,10 +21,10 @@ const skills = {
 I'm looking to collaborate on front-end projects, especially those that focus on **accessibility and inclusive design**.
 
 ## 📚 Abbreviations Used in This Repo
-- **fm**: Frontend Mentor
-- **top**: The Odin Project
-- **dccl**: DevChallenges
-- **crl**: Conquering Responsive Layouts
+- **fm**: [Frontend Mentor](https://www.frontendmentor.io/)
+- **top**: [The Odin Project](https://www.theodinproject.com/)
+- **dccl**: [DevChallenges](https://devchallenges.io/)
+- **crl**: [Conquering Responsive Layouts](https://courses.kevinpowell.co/conquering-responsive-layouts)
 
 ## 📫 Connect With Me
 - **Email:** cbienvenu007@gmail.com
