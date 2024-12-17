@@ -6,7 +6,7 @@ I'm a software engineering student and web developer from Rwanda, and I'm **pass
 ## 🛠️ Tech Stack
 ```javascript
 const skills = {
-    frontend: ['React', 'JavaScript', 'HTML', 'CSS', 'Bootstrap'],
+    frontend: ['JavaScript', 'HTML', 'CSS', 'Bootstrap'],
     tools: ['Git', 'GitHub', 'VS Code', 'npm'],
     accessibility: ['WCAG', 'ARIA', 'Screen Readers'],
     learning: ['React.js', 'Node.js']
