@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bienvenu Cyuzuzo!
+# 👋 Hi, I'm Bienvenu!
 
 ## 🚀 About Me
 I'm a software engineering student and web developer from Rwanda, and I'm **passionate about making accessible web experiences**. My mission is to build inclusive digital solutions that work for everyone, regardless of their abilities. Through my focus on web accessibility (a11y), I strive to create applications that ensure equal access to technology.
@@ -25,9 +25,3 @@ I'm looking to collaborate on front-end projects, especially those that focus on
 - **top**: [The Odin Project](https://www.theodinproject.com/)
 - **dccl**: [DevChallenges](https://devchallenges.io/)
 - **crl**: [Conquering Responsive Layouts](https://courses.kevinpowell.co/conquering-responsive-layouts)
-
-## 📫 Connect With Me
-- **Email:** cbienvenu007@gmail.com
-- **LinkedIn:** [Bienvenu Cyuzuzo](https://www.linkedin.com/in/bienvenu-cyuzuzo/)
-- **Frontend mentor profile:** [Bienvenu Cyuzuzo](https://www.frontendmentor.io/profile/bienvenudev)
-- **Discord:** bien_venu
