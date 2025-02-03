@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bienvenu!
 
 ## 🚀 About Me
-I'm a software engineering student and web developer from Rwanda, and I'm **passionate about making accessible web experiences**. My mission is to build inclusive digital solutions that work for everyone, regardless of their abilities. Through my focus on web accessibility (a11y), I strive to create applications that ensure equal access to technology.
+I'm a software engineering student and web developer, and I'm **passionate about making accessible web experiences**. My mission is to build inclusive digital solutions that work for everyone, regardless of their abilities. Through my focus on web accessibility (a11y), I strive to create applications that ensure equal access to technology.
 
 ## 🛠️ Tech Stack
 ```javascript
