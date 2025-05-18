@@ -27,6 +27,10 @@ I'm looking to collaborate on front-end projects, especially those that focus on
 - **crl**: [Conquering Responsive Layouts](https://courses.kevinpowell.co/conquering-responsive-layouts)
 
 ## ☕ Support My Work
-If you find my projects helpful or inspiring, consider buying me a coffee ☕! Your support helps me dedicate more time to learning, building, and sharing accessible web solutions with the community.  
-➡️ [Buy me a coffee](https://www.buymeacoffee.com/bienvenudev)  
-Thank you for being part of the journey 💛
+If you find my projects helpful, consider supporting me!  
+  
+- [Buy me a coffee](https://www.buymeacoffee.com/bienvenudev)  
+  
+ Your support helps me dedicate more time to learning, building, and sharing accessible web solutions with the community.  
+ 
+  **Thank you for being part of the journey** 💛
