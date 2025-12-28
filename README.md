@@ -6,7 +6,7 @@ I'm a Software Engineering Student and Full-Stack Developer. I am passionate abo
 const skills = {
     frontend: ['React.js', 'TypeScript', 'Tailwind CSS', 'JavaScript', 'HTML/CSS'],
     backend:  ['Node.js', 'PostgreSQL', 'MongoDB', 'API Design', 'Express'],
-    devops:   ['Docker', 'Git', 'GitHub Actions', 'Netlify'],
+    devops:   ['Docker', 'Git', 'GitHub', 'Vercel'],
     a11y:     ['WCAG', 'ARIA', 'Screen Readers'],
     learning: ['NestJS']
 }
