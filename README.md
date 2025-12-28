@@ -1,13 +1,14 @@
 ## 🚀 About Me
-I'm a software engineering student and web developer, and I'm **passionate about making accessible web experiences**. My mission is to build inclusive digital solutions that work for everyone, regardless of their abilities. Through my focus on web accessibility (a11y), I strive to create applications that ensure equal access to technology.
+I'm a Software Engineering Student and Full-Stack Developer. I am passionate about making accessible web experiences and my mission is to build inclusive digital solutions that ensure equal access to technology for everyone, regardless of ability.
 
 ## 🛠️ Tech Stack
 ```javascript
 const skills = {
-    frontend: ['JavaScript', 'HTML', 'CSS', 'Bootstrap'],
-    tools: ['Git', 'GitHub', 'VS Code', 'npm'],
-    accessibility: ['WCAG', 'ARIA', 'Screen Readers'],
-    learning: ['React.js', 'Node.js']
+    frontend: ['React.js', 'TypeScript', 'Tailwind CSS', 'JavaScript', 'HTML/CSS'],
+    backend:  ['Node.js', 'PostgreSQL', 'MongoDB', 'API Design', 'Express'],
+    devops:   ['Docker', 'Git', 'GitHub Actions', 'Netlify'],
+    a11y:     ['WCAG', 'ARIA', 'Screen Readers'],
+    learning: ['NestJS']
 }
 ```
 
